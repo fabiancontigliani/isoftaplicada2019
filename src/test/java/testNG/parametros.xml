@@ -1,0 +1,17 @@
+
+<suite name="Suite">
+    <test name="ToolsQA">
+
+        <parameter name="valor1" value="2"/>
+
+        <parameter name="valor2" value="2"/>
+
+        <classes>
+
+            <class name="testNG.Parametros" />
+
+        </classes>
+
+    </test>
+
+</suite>
